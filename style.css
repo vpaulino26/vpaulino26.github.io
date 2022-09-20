@@ -1,4 +1,9 @@
 body {
   background-color: rgb(30, 206, 177);
 }
-  
+h1 {
+  text-shadow: 2px 2px #ff0000;
+}
+p {
+  text-shadow: 2px 2px #ff0000;
+}
