@@ -1,15 +1,11 @@
 body {
   background-color: rgb(30, 206, 177);
-  width: 1200px;
 }
 h1 {
-  text-shadow: 1px 2px #2F3030;
+  text-shadow: 2px 1px #2F3030;
 }
 p {
-  text-shadow: 1px 2px #2F3030;
-}
-div {
-  width: 1200px;
+  text-shadow: 2px 1px #2F3030;
 }
 #divider {
   width: 1200px;
