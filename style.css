@@ -2,14 +2,14 @@ body {
   background-color: rgb(30, 206, 177);
 }
 h1 {
-  text-shadow: 2px 1px #2F3030;
+  text-shadow: 1px 1px #2F3030;
 }
 p {
-  text-shadow: 2px 1px #2F3030;
+  text-shadow: 1px 1px #2F3030;
 }
 #divider {
   width: 1200px;
 }
 #aboutmepics {
-  box-shadow: 5px 10px;
+  box-shadow: 2px 4px;
 }
